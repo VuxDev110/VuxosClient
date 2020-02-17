@@ -3,6 +3,7 @@
 
 Vuxosはマインクラフト1.9のハッククライアントです。
 
+
 Developper: yamamo
 
 Specialthanks: nazonohacker, hexeption
